@@ -4,3 +4,4 @@ complete
 .vscode
 *.crt
 *.key
+*.exe
